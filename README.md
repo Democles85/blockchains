@@ -18,9 +18,9 @@ A step by step series of examples that tell you how to get a development environ
 
 Clone the repository
 
-bash
-
-`git clone https://github.com/<username>/simple-blockchain-javascript.git`
+```bash
+git clone https://github.com/Democles85/blockchains.git
+```
 
 Install the dependencies
 
@@ -28,9 +28,9 @@ Install the dependencies
 
 Start the application
 
-sql
-
-`npm start`
+```powershell
+npm start
+```
 
 ## Built With
 
