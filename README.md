@@ -43,7 +43,7 @@ Please read [CONTRIBUTING.md](https://github.com/Democles85/blockchains/blob/mas
 
 ## Versioning
 
-I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Democles85/blockchains/tags).
+[SemVer](http://semver.org/) is used for versioning. For the versions available, see the [tags on this repository](https://github.com/Democles85/blockchains/tags).
 
 ## Authors
 
